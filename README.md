@@ -1,2 +1,5 @@
 # learn_command_line_excises
-Repo for when I learn the command line
+This is a repo I used to learn the command
+ling as part of the Build the Toolbelt class
+at DaVinci.
+
